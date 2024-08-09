@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(32, 169, 203);
+}
+
+.box {
+  width: 800px;
+  height: 1000px;
+  background-color: aliceblue;
+  margin: 0 auto;
+  margin-top: 15px;
+}
+
+.header {
+  font-size: 20px;
+  display: flex;
+  height: 50px;
+  background-color: black;
+  color: aliceblue;
+  justify-content: center;
+  align-items: center;
+}
+
+.main {
+  position: relative;
+  padding: 80px;
+}
+
+.first,
+.last {
+  width: 200px;
+  height: 40px;
+  border-radius: 5px;
+}
+
+.company,
+.email {
+  width: 400px;
+  height: 40px;
+  border-radius: 5px;
+}
+
+.com {
+  margin-top: 50px;
+}
+
+input {
+  margin-left: 20px;
+}
+
+.email {
+  margin-top: 50px;
+}
+
+label {
+  font-weight: 600;
+}
+
+.cod0 {
+  width: 60px;
+  height: 40px;
+}
+
+.cod {
+  width: 320px;
+  height: 40px;
+}
+
+.sub {
+  width: 400px;
+  height: 40px;
+  border-radius: 5px;
+}
+
+.but {
+  width: 200px;
+  height: 50px;
+  border-radius: 5px;
+  background-color: rgb(175, 71, 71);
+}
