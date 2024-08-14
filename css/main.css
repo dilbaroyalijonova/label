@@ -27,6 +27,7 @@ body {
 }
 
 .main {
+  max-width: 100%;
   position: relative;
   padding: 80px;
 }
